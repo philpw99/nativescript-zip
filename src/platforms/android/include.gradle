@@ -1,0 +1,3 @@
+dependencies {
+       compile(name:'zip-lib', ext:'aar')
+}
